@@ -53,7 +53,7 @@ See the file "CONTRIBUTING.md" for more details.
 Legal Stuff
 -----------
 
-HTMLCSS is Copyright © 2018-2025 by Michael R Sweet.
+HTMLCSS is Copyright © 2018-2026 by Michael R Sweet.
 
 HTMLCSS is licensed under the Apache License Version 2.0.  See the files
 "LICENSE" and "NOTICE" for more information.

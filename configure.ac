@@ -21,7 +21,7 @@ AC_PREREQ([2.70])
 
 
 dnl Package name and version...
-AC_INIT([htmlcss], [0.1.0], [https://github.com/michaelrsweet/htmlcss/issues], [htmlcss], [https://www.msweet.org/htmlcss])
+AC_INIT([htmlcss], [0.1.0], [https://github.com/michaelrsweet/htmlcss/issues], [htmlcss], [https://www.msweet.org/htmlcss/])
 
 HTMLCSS_VERSION="AC_PACKAGE_VERSION"
 HTMLCSS_VERSION_MAJOR="`echo AC_PACKAGE_VERSION | awk -F. '{print $1}'`"

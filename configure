@@ -613,7 +613,7 @@ PACKAGE_TARNAME='htmlcss'
 PACKAGE_VERSION='0.1.0'
 PACKAGE_STRING='htmlcss 0.1.0'
 PACKAGE_BUGREPORT='https://github.com/michaelrsweet/htmlcss/issues'
-PACKAGE_URL='https://www.msweet.org/htmlcss'
+PACKAGE_URL='https://www.msweet.org/htmlcss/'
 
 enable_option_checking=no
 # Factoring default headers for most tests.
@@ -1396,7 +1396,7 @@ Use these variables to override the choices made by `configure' or to help
 it to find libraries and programs with nonstandard names/locations.
 
 Report bugs to <https://github.com/michaelrsweet/htmlcss/issues>.
-htmlcss home page: <https://www.msweet.org/htmlcss>.
+htmlcss home page: <https://www.msweet.org/htmlcss/>.
 _ACEOF
 ac_status=$?
 fi
@@ -5020,7 +5020,7 @@ Configuration files:
 $config_files
 
 Report bugs to <https://github.com/michaelrsweet/htmlcss/issues>.
-htmlcss home page: <https://www.msweet.org/htmlcss>."
+htmlcss home page: <https://www.msweet.org/htmlcss/>."
 
 _ACEOF
 ac_cs_config=`printf "%s\n" "$ac_configure_args" | sed "$ac_safe_unquote"`

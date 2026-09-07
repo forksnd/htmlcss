@@ -1,7 +1,7 @@
 ---
 title: How to Use HTMLCSS
 author: Michael R Sweet
-copyright: Copyright © 2018-2025 by Michael R Sweet
+copyright: Copyright © 2018-2026 by Michael R Sweet
 version: 0.1
 ...
 
